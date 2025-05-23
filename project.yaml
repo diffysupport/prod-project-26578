@@ -1,5 +1,5 @@
 basic:
-    name: 'MHI Technical Review Site (Legacy)'
+    name: 'MHI - Technical Review Site (Legacy)'
     environments:
         production: 'https://www.mhi.co.jp/technology/review'
         staging: ''
@@ -8,102 +8,7 @@ basic:
         - 375
         - 1240
     pages:
-        - /en/abstracte-51-3-14.html
-        - /en/abstracte-51-3-19.html
-        - /en/abstracte-51-3-18.html
-        - /en/abstracte-51-3-21.html
-        - /en/abstracte-51-3-22.html
-        - /en/abstracte-51-3-17.html
-        - /en/abstracte-51-3-23.html
-        - /en/abstracte-51-3-32.html
-        - /en/abstracte-51-3-27.html
-        - /en/abstracte-51-3-33.html
-        - /en/abstracte-51-3-43.html
-        - /en/abstracte-51-3-54.html
-        - /en/abstracte-51-3-47.html
-        - /en/abstracte-51-3-50.html
-        - /en/abstracte-51-2-2.html
-        - /en/abstracte-51-2-9.html
-        - /en/abstracte-51-3-59.html
-        - /en/abstracte-51-2-15.html
-        - /en/abstracte-51-2-26.html
-        - /en/abstracte-51-2-22.html
-        - /en/abstracte-51-2-32.html
-        - /en/abstracte-51-2-27.html
-        - /en/abstracte-51-2-38.html
-        - /en/abstracte-51-2-35.html
-        - /en/abstracte-51-2-36.html
-        - /en/abstracte-51-2-37.html
-        - /en/abstracte-51-2-44.html
-        - /en/abstracte-51-2-41.html
-        - /en/abstracte-51-1-1.html
-        - /en/abstracte-51-1-15.html
-        - /en/abstracte-51-1-10.html
-        - /en/abstracte-51-1-22.html
-        - /en/abstracte-51-1-31.html
-        - /en/abstracte-51-1-40.html
-        - /en/abstracte-51-1-68.html
-        - /en/abstracte-51-1-82.html
-        - /en/abstracte-51-1-59.html
-        - /en/abstracte-51-1-35.html
-        - /en/abstracte-51-1-34.html
-        - /en/abstracte-51-1-76.html
-        - /en/abstracte-50-4-4.html
-        - /en/abstracte-50-4-15.html
-        - /en/abstracte-51-1-52.html
-        - /en/abstracte-51-1-47.html
-        - /en/abstracte-50-4-22.html
-        - /en/abstracte-50-4-26.html
-        - /en/abstracte-50-4-27.html
-        - /en/abstracte-50-4-1.html
-        - /en/abstracte-51-1-30.html
-        - /en/abstracte-50-3-2.html
-        - /en/abstracte-50-3-11.html
-        - /en/abstracte-50-3-18.html
-        - /en/abstracte-50-3-19.html
-        - /en/abstracte-50-3-1.html
-        - /en/abstracte-50-3-22.html
-        - /en/abstracte-50-3-29.html
-        - /en/abstracte-50-3-36.html
-        - /en/abstracte-50-3-42.html
-        - /en/abstracte-50-3-47.html
-        - /en/abstracte-50-3-54.html
-        - /en/abstracte-50-3-60.html
-        - /en/abstracte-50-3-59.html
-        - /en/abstracte-50-2-1.html
-        - /en/abstracte-50-2-5.html
-        - /en/abstracte-50-2-12.html
-        - /en/abstracte-50-2-13.html
-        - /en/abstracte-50-2-18.html
-        - /en/abstracte-50-2-19.html
-        - /en/abstracte-50-2-20.html
-        - /en/abstracte-50-2-27.html
-        - /en/abstracte-50-2-21.html
-        - /en/abstracte-50-2-33.html
-        - /en/abstracte-50-2-37.html
-        - /en/abstracte-50-2-44.html
-        - /en/abstracte-50-2-45.html
-        - /en/abstracte-50-2-51.html
-        - /en/abstracte-50-2-61.html
-        - /en/abstracte-50-2-56.html
-        - /en/abstracte-50-2-50.html
-        - /en/abstracte-50-2-66.html
-        - /en/abstracte-50-1-1.html
-        - /en/abstracte-50-1-2.html
-        - /en/abstracte-50-1-10.html
-        - /en/abstracte-50-1-16.html
-        - /en/abstracte-50-1-7.html
-        - /en/abstracte-50-1-23.html
-        - /en/abstracte-50-1-31.html
-        - /en/abstracte-50-1-39.html
-        - /en/abstracte-50-1-43.html
-        - /en/abstracte-50-1-40.html
-        - /en/abstracte-50-1-49.html
-        - /en/abstracte-50-1-55.html
-        - /en/abstracte-50-1-63.html
-        - /en/abstracte-50-1-68.html
-        - /en/abstracte-50-1-76.html
-        - /en/abstracte-50-1-75.html
+        - /
     monitoring:
         days: {  }
         type: ''
