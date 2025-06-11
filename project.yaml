@@ -3,11 +3,11 @@ basic:
     environments:
         production: 'https://www.mhi.com/technology/review/'
         staging: ''
-        development: ''
+        development: 'https://dev-admin-technical-review.mhi.com/'
     basicAuth:
         production: { user: '', password: '' }
         staging: { user: '', password: '' }
-        development: { user: '', password: '' }
+        development: { user: MHI, password: MHI@123 }
     breakpoints:
         - 375
         - 1240
