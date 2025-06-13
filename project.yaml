@@ -191,7 +191,7 @@ advanced:
     retina_images: false
     single_ip: true
     login:
-        type: none
+        type: drupal
         click_element: false
         click_element_selector: ''
         login_url: ''
